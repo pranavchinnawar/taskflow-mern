@@ -1,19 +1,4 @@
-<div align="center">
-  <br />
-    <a href="https://github.com/pranavchinnawar/taskflow-mern" target="_blank">
-      <img src="https://img.shields.io/badge/Task-Flow-blue?style=for-the-badge&logo=react" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logoColor=white&logo=nodedotjs&color=339933" alt="node.js" />
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
-
-  <h3 align="center">A Jira-Inspired Project Management Platform</h3>
-</div>
+# TaskFlow: A Jira-Inspired Project Management Platform
 
 ## 📋 Overview
 
