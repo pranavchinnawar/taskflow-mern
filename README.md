@@ -105,5 +105,4 @@ npm run dev
 4. As an Admin, create a new workspace (Project) and populate it with issues (Tasks).
 5. Open the project details to experience the drag-and-drop Kanban workflow.
 
-## 📄 License
-This project is licensed under the MIT License.
+
